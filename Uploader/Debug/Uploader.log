@@ -1,0 +1,3 @@
+﻿  Server.c
+F:\projects\c_Downloader\Uploader\Server.c(162,25): warning C4047: ==: "HANDLE" отличается по уровням косвенного обращения от "int"
+  Uploader.vcxproj -> F:\projects\c_Downloader\Debug\Uploader.exe

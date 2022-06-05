@@ -1,0 +1,14 @@
+﻿  Server.c
+F:\projects\c_Downloader\Uploader\Server.c(165,25): warning C4047: ==: "HANDLE" отличается по уровням косвенного обращения от "int"
+F:\projects\c_Downloader\Uploader\Server.c(357,26): warning C4133: функция: несовместимые типы - из "DWORD *" в "char *"
+F:\projects\c_Downloader\Uploader\Server.c(397,50): warning C4047: =: "char" отличается по уровням косвенного обращения от "char *"
+F:\projects\c_Downloader\Uploader\Server.c(398,64): warning C4022: CreateThread: несоответствие указателя для фактического параметра 4
+F:\projects\c_Downloader\Uploader\Server.c(401,8): warning C4022: free: несоответствие указателя для фактического параметра 1
+F:\projects\c_Downloader\Uploader\Server.c(395,1): warning C4047: инициализация: "DWORD_PTR" отличается по уровням косвенного обращения от "void *"
+  Создание кода
+F:\projects\c_Downloader\Uploader\Server.c(345): warning C4716: SendThread: должна возвращать значение
+  4 of 8 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Uploader.vcxproj -> F:\projects\c_Downloader\Release\Uploader.exe
